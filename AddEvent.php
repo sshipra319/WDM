@@ -70,8 +70,7 @@
 <input type="text"id="IndiNumber"name="contrasena"placeholder="$000.00"><br/><br/>
 
 
-	<input type="submitGuardar" name="submit" value="Guardar">
-	
+	<input type="submitGuardar" name="submit" value="Guardar">	
 </div>
 
 </main>
