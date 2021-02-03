@@ -40,7 +40,7 @@
     <h1 class="centre"> QUIENES SOMOS </h1>
         <div class="below"><span style="color: #FFC300;">HOME &nbsp;&nbsp;</span> QUIENES SOMOS </div>
   </div>
-
+    
   <div class="wrapper">
             <aside style="padding-left: 20px;margin-right: 0px;">
             <p style="color: black; font-size: 20px;"><b>¿CÓMO PUEDES AYUDAR?</b></p>
@@ -133,10 +133,8 @@
     </div>
     <div id="bottom"><p><small>Copyright @2019 All rights reserved | This web is made with <i class="far fa-heart"></i> by <span style="color: #FFC300">DiazApps</span></small></p></div>
     </div>
-
 </div>
 </footer>
-
 
 </div>
 </body>
