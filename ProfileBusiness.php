@@ -1,5 +1,4 @@
 <!DOCTYPE html>
-
 <html>
 
 <head>
@@ -102,7 +101,6 @@
 	<input type="submitGuardar" name="submit" value="Guardar Cambios">
 	
 </div>
-
 </main>
 
 <footer style="margin-top: -140px;">
